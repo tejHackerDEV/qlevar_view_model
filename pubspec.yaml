@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  qlevar_router: ^1.7.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
